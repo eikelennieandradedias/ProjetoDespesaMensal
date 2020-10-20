@@ -4,5 +4,5 @@ Projeto final da Disciplina de Orientação a Objetos da UnB com o Professor And
 ## Diagrama UML
 
 <p align="center">
-  <img width="400" height="200" src="https://raw.githubusercontent.com/Maiconrq/ProjetoDespesaMensal/main/Diagram/Classe%20UML.png">
+  <img width="1000" height="600" src="https://raw.githubusercontent.com/Maiconrq/ProjetoDespesaMensal/main/Diagram/Classe%20UML.png">
 </p>
